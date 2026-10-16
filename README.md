@@ -81,6 +81,9 @@
 - **Node.js** 20.11+ ([скачать](https://nodejs.org))
 - **npm** 10+
 - **Git**
+### Ссылка
+
+https://hw-opal-gamma.vercel.app
 
 ### Клонирование
 
@@ -88,4 +91,3 @@
 git clone https://github.com/Dinario2k/hw.git
 cd hw
 
-https://hw-opal-gamma.vercel.app
